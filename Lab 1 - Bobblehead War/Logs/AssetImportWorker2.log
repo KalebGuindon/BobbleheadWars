@@ -167,3 +167,67 @@ Received Import Request.
   path: Assets/Models/BobbleMarine-Head.fbx
   artifactKey: Guid(444048223d93b704c851859081695ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/BobbleMarine-Head.fbx using Guid(444048223d93b704c851859081695ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '326c599f94392c804e16f8b84b2445e2') in 0.066392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7703.508988 seconds.
+  path: Assets/Prefabs/AlienDeathParticles.prefab
+  artifactKey: Guid(81ee2dd3cdadcf64a8e5b8815810c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AlienDeathParticles.prefab using Guid(81ee2dd3cdadcf64a8e5b8815810c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0335468205cb44e5f97aa9836a44b36') in 0.157044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.532774 seconds.
+  path: Assets/Prefabs/Alien.prefab
+  artifactKey: Guid(f493e83ab5bc920429903cc382b83a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Alien.prefab using Guid(f493e83ab5bc920429903cc382b83a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22923f54834e1c9c9d25eab48d717be') in 0.041132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 153.983094 seconds.
+  path: Assets/Materials/Models/BobbleArena-Main Texture.mat
+  artifactKey: Guid(2b3ab3d3f4ab7fb49afa4fdf096db597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-Main Texture.mat using Guid(2b3ab3d3f4ab7fb49afa4fdf096db597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b188a3a20e52573b688b9be3b0146c2') in 0.035673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009439 seconds.
+  path: Assets/Materials/Models/BobbleArena-No Name.mat
+  artifactKey: Guid(6bc50202ceb6f5448b9551d6f6ea848e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-No Name.mat using Guid(6bc50202ceb6f5448b9551d6f6ea848e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab117ea5569450708b71b8420fc7e9af') in 0.033865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/Models/Material.mat
+  artifactKey: Guid(c3fcc1592ce574ca1bc3ab68dc57efed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Material.mat using Guid(c3fcc1592ce574ca1bc3ab68dc57efed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e382bfa0644ee1e040f80d92affd4945') in 0.025161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/Models/BobbleEnemy-Head-Main Texture.mat
+  artifactKey: Guid(d00558141d68a4039be132c31ed29a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleEnemy-Head-Main Texture.mat using Guid(d00558141d68a4039be132c31ed29a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb545aab6981733032066e6c6cae61e7') in 0.025559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Models/Main_Texture.mat
+  artifactKey: Guid(768b85136f52344269c9d3369fd72e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Main_Texture.mat using Guid(768b85136f52344269c9d3369fd72e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '111bd07291f912a2f7654dda5da7ea1f') in 0.024789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/Models/BobbleEnemy-Body-Main_Texture.mat
+  artifactKey: Guid(a574e12c200cf41d188d9b8639bec4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleEnemy-Body-Main_Texture.mat using Guid(a574e12c200cf41d188d9b8639bec4e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a02cda3a5ca685fff0a1be63c4ff68c6') in 0.022402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Models/Main_Material.mat
+  artifactKey: Guid(2c41ffd075e1746d2904843f43d411c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Main_Material.mat using Guid(2c41ffd075e1746d2904843f43d411c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '109cff70091b9331427359c1cf3eeb67') in 0.019430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Models/BobbleEnemy-Body-Main_Texture__Bobble_Wars_Enemy_texture_psd.mat
+  artifactKey: Guid(cb2868aa28fed48a180aa6b2639100e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleEnemy-Body-Main_Texture__Bobble_Wars_Enemy_texture_psd.mat using Guid(cb2868aa28fed48a180aa6b2639100e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6470e96ace3f632a1433b5b8d0c29771') in 0.027377 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

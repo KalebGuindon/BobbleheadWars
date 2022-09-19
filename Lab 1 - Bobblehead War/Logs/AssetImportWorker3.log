@@ -161,3 +161,73 @@ Received Import Request.
   path: Assets/Models/BobbleMarine-Body.fbx
   artifactKey: Guid(d7ec87f33ea405344bb3de4200f007c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/BobbleMarine-Body.fbx using Guid(d7ec87f33ea405344bb3de4200f007c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b7e21000a6ac7208998984accbb7b7') in 0.194830 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7703.421349 seconds.
+  path: Assets/Prefabs/MarineDeathParticles.prefab
+  artifactKey: Guid(166b5f35267b23d418446eb9650c0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MarineDeathParticles.prefab using Guid(166b5f35267b23d418446eb9650c0efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e60d1aa1fe001d73da17596084773fa') in 0.150871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Prefabs/Pickup.prefab
+  artifactKey: Guid(941d6224549424c91b1cf112b44ec0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Pickup.prefab using Guid(941d6224549424c91b1cf112b44ec0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf94b4b95a90a185da1a034462613ace') in 0.036896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 158.521740 seconds.
+  path: Assets/Materials/Models/BobbleArena-Main_Texture.mat
+  artifactKey: Guid(9c32c6e136d3b404e848fbbb01c14f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-Main_Texture.mat using Guid(9c32c6e136d3b404e848fbbb01c14f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df799f885b9c524a196344d9e9e3e8e') in 0.035459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009651 seconds.
+  path: Assets/Materials/Models/BobbleEnemy-Body-Main Texture.mat
+  artifactKey: Guid(4bcfb99156bd12046b6f30a385ef731a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleEnemy-Body-Main Texture.mat using Guid(4bcfb99156bd12046b6f30a385ef731a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbc406b414a554343ca36a7584cec06') in 0.018343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Materials/Models/Main_Material__Bobble_Wars_Marine_texture_psd.mat
+  artifactKey: Guid(555920f7ad7a34fdf84e852febb03f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Main_Material__Bobble_Wars_Marine_texture_psd.mat using Guid(555920f7ad7a34fdf84e852febb03f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6acd791b4631ef25fc8ca412368a6ed8') in 0.029966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Models/BobbleArena-Material.mat
+  artifactKey: Guid(b2b41f43ac77c4ba6ab290cc5d77c8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-Material.mat using Guid(b2b41f43ac77c4ba6ab290cc5d77c8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '742ddc21ff6abb086581c87cf9344f1c') in 0.021504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Models/Main Material.mat
+  artifactKey: Guid(455c745131b006c42b88a1451764cd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Main Material.mat using Guid(455c745131b006c42b88a1451764cd8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73be4778b655768a7d721e4a8c03b897') in 0.015669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/Models/BobbleArena-Main_Texture__Bobble_Wars_Marine_texture_psd.mat
+  artifactKey: Guid(e8cf5b3d504b04a09a3d13bd4720c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-Main_Texture__Bobble_Wars_Marine_texture_psd.mat using Guid(e8cf5b3d504b04a09a3d13bd4720c463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '222cca1e4cf371b9db0ed290a651dd1f') in 0.031452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/Models/Main Texture.mat
+  artifactKey: Guid(76da8e9c2c5ce0c49bd1d58c4e28b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/Main Texture.mat using Guid(76da8e9c2c5ce0c49bd1d58c4e28b2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4635e70f769d3a5a8ecd0229b48d6e57') in 0.018294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/Models/glow.mat
+  artifactKey: Guid(800792df19e4946a7b7f1436a13b960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/glow.mat using Guid(800792df19e4946a7b7f1436a13b960c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e9e4706e9e3ce30b6fd778eb2d5d68') in 0.018041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/Models/BobbleArena-unnamed.mat
+  artifactKey: Guid(0176fe6449d0241a780f287f93d27fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Models/BobbleArena-unnamed.mat using Guid(0176fe6449d0241a780f287f93d27fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0062498cd4fbb48b7356123728876255') in 0.026302 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
