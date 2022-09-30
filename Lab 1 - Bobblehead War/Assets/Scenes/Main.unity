@@ -1856,6 +1856,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7293825778277840076, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 380710497}
     - target: {fileID: 1421915939924638349, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
       propertyPath: m_Name
       value: Alien
