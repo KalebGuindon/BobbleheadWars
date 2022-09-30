@@ -431,6 +431,11 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: -1.82, y: 6.53, z: 0.7}
+--- !u!1 &393424104 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1421915939924638349, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
+  m_PrefabInstance: {fileID: 1421915940292400485}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &571388957
 GameObject:
   m_ObjectHideFlags: 0
@@ -1620,6 +1625,69 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1589208772}
   m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1738010747
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1738010749}
+  - component: {fileID: 1738010748}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1738010748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1738010747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 687e10834ac3e9b40b037e8fd7b9ec59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 380710496}
+  spawnPoints:
+  - {fileID: 376521882}
+  - {fileID: 2120211934}
+  - {fileID: 1808085275}
+  - {fileID: 266494843}
+  - {fileID: 840980060}
+  - {fileID: 571388957}
+  - {fileID: 748460540}
+  - {fileID: 950695572}
+  - {fileID: 1650872659}
+  - {fileID: 899657566}
+  - {fileID: 2105836392}
+  alien: {fileID: 393424104}
+  maxAliensOnScreen: 0
+  totalAliens: 0
+  minSpawnTime: 0
+  maxSpawnTime: 0
+  aliensPerSpawn: 0
+--- !u!4 &1738010749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1738010747}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 19.929604, y: 15.624832, z: 23.193493}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1788266762
 PrefabInstance:
