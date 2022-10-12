@@ -419,6 +419,7 @@ MonoBehaviour:
   - 0.2
   - 0.3
   timeBetweenHits: 2.5
+  marineBody: {fileID: 1618462237}
 --- !u!143 &380710499
 CharacterController:
   m_ObjectHideFlags: 0
@@ -1710,26 +1711,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1421915940809932415, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
   m_PrefabInstance: {fileID: 1421915940292400485}
   m_PrefabAsset: {fileID: 0}
---- !u!95 &1400546180
-Animator:
-  serializedVersion: 4
+--- !u!114 &1400546184
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1400546178}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6ee16ea20e49b4c429765aec799f03f0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1098bcf859a11ab499ef33f1877d3232, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destructTime: 3
 --- !u!1001 &1445037812
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2141,6 +2135,20 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!136 &1618462240
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312931965}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  m_Radius: 2.08
+  m_Height: 0.24
+  m_Direction: 1
+  m_Center: {x: -1.61, y: 3.58, z: 0}
 --- !u!1 &1650872659
 GameObject:
   m_ObjectHideFlags: 0
@@ -2216,8 +2224,8 @@ MonoBehaviour:
   - {fileID: 2105836392}
   alien: {fileID: 393424104}
   maxAliensOnScreen: 50
-  totalAliens: 50
-  minSpawnTime: 0
+  totalAliens: 100
+  minSpawnTime: 1
   maxSpawnTime: 3
   aliensPerSpawn: 5
   upgradePrefab: {fileID: 105092, guid: 941d6224549424c91b1cf112b44ec0cb, type: 3}
@@ -2409,22 +2417,6 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 380710497}
-    - target: {fileID: -7293825778277840076, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
-      propertyPath: navigationUpdate
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: -7293825778277840076, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
-      propertyPath: OnDestroy.m_PersistentCalls.m_Calls.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -7293825778277840076, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
-      propertyPath: OnDestroy.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -7293825778277840076, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
-      propertyPath: OnDestroy.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 1421915939924638349, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
       propertyPath: m_Name
       value: Alien
@@ -2473,10 +2465,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1421915940024682385, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: eb0fc950e725e2c4a8d739cee71bbf33, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f493e83ab5bc920429903cc382b83a0c, type: 3}
 --- !u!1001 &2538679010710567801
