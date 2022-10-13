@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
     private bool spawnedUpgrade = false;
     private float actualUpgradeTime = 0;
     private float currentUpgradeTime = 0;
+    public GameObject deathFloor;
     // Start is called before the first frame update
     void Start()
     {
@@ -95,10 +96,12 @@ public class GameManager : MonoBehaviour
                     GameObject newAlien = Instantiate(alien) as GameObject;
                     newAlien.transform.position = spawnLocation.transform.position;
                     Alien alienScript = newAlien.GetComponent<Alien>();
+                    alienScript.target = player.transform;
                     Vector3 targetRotation = new Vector3(player.transform.position.x, 
                     newAlien.transform.position.y, player.transform.position.z);
                     newAlien.transform.LookAt(targetRotation);
                     alienScript.OnDestroy.AddListener(AlienDestroyed);
+                    alienScript.GetDeathParticles().SetDeathFloor(deathFloor);
                 }
             }
         }
